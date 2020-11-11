@@ -1,0 +1,90 @@
+            h1 {
+                color: rgb(252, 249, 249);
+                text-align: center;
+                background: rgb(10, 10, 10);
+                padding: 10px 15px 30px 80px;
+                /*En orden de las manesillas del reloj*/
+            }
+            
+            .hr-footer {
+                position: absolute;
+                color: rgb(252, 249, 249);
+                margin: 300px 300px;
+            }
+            
+            body {
+                font-family: 'Goldman', cursive;
+                background: rgb(7, 7, 7);
+                color: rgb(252, 249, 249);
+            }
+            
+            img {
+                position: absolute;
+                width: 20%;
+                height: 30%;
+                margin: 0px 100px;
+                border-radius: 15px;
+            }
+            
+            .div-posicionar-ol {
+                position: absolute;
+                font-family: 'Goldman', cursive;
+                margin: 0px 400px;
+            }
+            
+            .check-title {
+                position: absolute;
+                color: rgb(240, 238, 235);
+                margin: 200px 100px;
+            }
+            
+            .check-start-1 {
+                position: absolute;
+                color: rgb(248, 244, 17);
+                font-family: 'Goldman', cursive;
+                margin: 250px 120px;
+            }
+            
+            .check-start-2 {
+                position: absolute;
+                color: rgb(60, 247, 169);
+                font-family: 'Goldman', cursive;
+                margin: 250px 140px;
+            }
+            
+            .check-start-3 {
+                position: absolute;
+                color: rgb(231, 211, 31);
+                font-family: 'Goldman', cursive;
+                margin: 250px 160px;
+            }
+            
+            .uncheck-start-1 {
+                position: absolute;
+                color: rgb(240, 238, 235);
+                font-family: 'Goldman', cursive;
+                margin: 250px 180px;
+            }
+            
+            .uncheck-start-2 {
+                position: absolute;
+                color: rgb(240, 238, 235);
+                font-family: 'Goldman', cursive;
+                margin: 250px 200px;
+            }
+            
+            .button-cart {
+                position: absolute;
+                color: rgb(86, 20, 241);
+                font-family: 'Goldman', cursive;
+                margin: 200px 440px;
+                cursor: pointer;
+            }
+            
+            .foot {
+                position: absolute;
+                color: rgb(86, 20, 241);
+                font-family: 'Goldman', cursive;
+                margin: 400px 440px;
+                cursor: pointer;
+            }
